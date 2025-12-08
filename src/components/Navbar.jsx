@@ -22,7 +22,7 @@ const Navbar = () => {
         </a>
 
         <a
-          href="https://github.com/krishtom"
+          href="https://github.com/deepak-kr-mahto"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub"
